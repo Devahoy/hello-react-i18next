@@ -1,8 +1,8 @@
 import React from 'react'
-import './App.css'
 import i18n from './i18n'
-
 import { translate } from 'react-i18next'
+
+import './App.css'
 
 const App = ({ t }) => (
   <div className="App">
