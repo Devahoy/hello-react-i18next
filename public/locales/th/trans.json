@@ -1,13 +1,13 @@
 {
 	"title": "React i18n",
 	"subtitle": "React i18n with i18next Tutorial",
-	"lang_text": "Please select language : ",
-	"lang_en": "English",
-	"lang_th": "Thai",
-	"header": "Example of React i18next",
-	"content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus nisi perferendis repellat consequatur commodi esse, delectus, cum in, ab illo maxime similique maiores culpa exercitationem ullam mollitia, ad ratione inventore?",
-	"welcome_message": "Hello, {{name}}. Welcome to {{website}}!",
-	"read_more": "Read more",
-	"post": "Post :",
-	"source_code": "Source Code :"
+	"lang_text": "กรุณาเลือกภาษา : ",
+	"lang_en": "ภาษาอังกฤษ",
+	"lang_th": "ภาษาไทย",
+	"header": "ตัวอย่างการใช้งาน React i18next",
+	"content": "Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16",
+	"welcome_message": "สวัสดี, {{name}}. ยินดีต้อนรับสู่เว็บไซต์ {{website}}!",
+	"read_more": "อ่านบทความต่อ",
+	"post": "บทความ :",
+	"source_code": "ซอร์สโค๊ด :"
 }

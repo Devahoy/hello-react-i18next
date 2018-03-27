@@ -18,7 +18,7 @@ const App = ({ t }) => (
     <div className="language-button-section">
       <span>{t('lang_text')}</span>
       <button className="button" onClick={() => { i18n.changeLanguage('th') }}>{t('lang_th')}</button>
-      <button className="button is-dark" onClick={() => { i18n.changeLanguage('en') }}>{t('lang_en')}</button>
+      <button className="button" onClick={() => { i18n.changeLanguage('en') }}>{t('lang_en')}</button>
     </div>
 
     <div className="container columns">
