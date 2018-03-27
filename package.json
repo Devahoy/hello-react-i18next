@@ -2,6 +2,7 @@
   "name": "hello-react-i18next",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://devahoy.github.io/hello-react-i18next",
   "dependencies": {
     "eslint": "^4.18.0",
     "eslint-config-react-app": "^2.1.0",
@@ -12,6 +13,7 @@
     "eslint-plugin-node": "^6.0.0",
     "eslint-plugin-promise": "^3.6.0",
     "eslint-plugin-standard": "^3.0.1",
+    "gh-pages": "^1.1.0",
     "i18next": "^10.5.0",
     "i18next-xhr-backend": "^1.5.1",
     "prettier": "^1.10.2",
@@ -26,6 +28,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "prettier": "./node_modules/.bin/prettier --semi=false --single-quote=true --write src/*.js"
   }
 }
