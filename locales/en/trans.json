@@ -1,0 +1,13 @@
+{
+	"title": "React i18n",
+	"subtitle": "React i18n with i18next Tutorial",
+	"lang_text": "Please select language : ",
+	"lang_en": "English",
+	"lang_th": "Thai",
+	"header": "Example of React i18next",
+	"content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus nisi perferendis repellat consequatur commodi esse, delectus, cum in, ab illo maxime similique maiores culpa exercitationem ullam mollitia, ad ratione inventore?",
+	"welcome_message": "Hello, {{name}}. Welcome to {{website}}!",
+	"read_more": "Read more",
+	"post": "Post :",
+	"source_code": "Source Code :"
+}
